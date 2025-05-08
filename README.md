@@ -44,13 +44,20 @@ and spark-shell/pyspark environments.
 - [Architecture diagram](#architecture-diagram)
 - [Concepts and FAQ](#main-concepts-underlying-sparkmeasure-implementation)
 
-### Resources   
-- Blog on [building an Apache Spark Performance Lab](https://db-blog.web.cern.ch/node/195)
-- [TPCDS PySpark](https://github.com/LucaCanali/Miscellaneous/tree/master/Performance_Testing/TPCDS_PySpark) - A tool you can use run TPCDS with PySpark, instrumented with sparkMeasure
-- [Spark monitoring dashboard](https://github.com/cerndb/spark-dashboard) - A custom monitoring pipeline and dashboard for Spark  
-- [Introductory course on Apache Spark](https://sparktraining.web.cern.ch/)
-- [Flamegraphs for profiling Spark jobs](https://github.com/LucaCanali/Miscellaneous/blob/master/Spark_Notes/Tools_Spark_Pyroscope_FlameGraph.md)
-- [Notes on Apache Spark](https://github.com/LucaCanali/Miscellaneous/tree/master/Spark_Notes)
+### Resources and Links
+
+- **[Building an Apache Spark Performance Lab](https://db-blog.web.cern.ch/node/195)**  
+  Guide to setting up a Spark performance testing environment.
+- **[TPC-DS Benchmark with PySpark](https://github.com/LucaCanali/Miscellaneous/tree/master/Performance_Testing/TPCDS_PySpark)**  
+  Tool for running TPC-DS with PySpark, instrumented with `sparkMeasure`.
+- **[Spark Monitoring Dashboard](https://github.com/cerndb/spark-dashboard)**  
+  Custom monitoring solution with real-time dashboards for Spark.
+- **[Introductory Course on Apache Spark](https://sparktraining.web.cern.ch/)**  
+  Beginner-friendly course on Spark fundamentals.
+- **[Flamegraphs for Profiling Spark Jobs](https://github.com/LucaCanali/Miscellaneous/blob/master/Spark_Notes/Tools_Spark_Pyroscope_FlameGraph.md)**  
+  Guide to profiling Spark with Pyroscope and Flamegraphs.
+- **[Advanced Notes on Apache Spark](https://github.com/LucaCanali/Miscellaneous/tree/master/Spark_Notes)**  
+  Tips, configuration, and troubleshooting for Spark.
 
 Main author and contact: Luca.Canali@cern.ch
 
